@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Shahnaz Aqsa
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Web Development with Python and Flask
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Shahnaz-aqsa11/Shahnaz-aqsa11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
